@@ -1,0 +1,75 @@
+.Main-Title {
+  text-align: center;
+  font-size: 60px;
+}
+.main-box-1 {
+  display: flex;
+  border: 3px black solid;
+}
+.Story-1 {
+  box-sizing: border-box;
+  width: 25%;
+
+  border: 2px black solid;
+}
+.Title-1 {
+  text-align: center;
+}
+.Story-2 {
+  width: 50%;
+  border: 2px black solid;
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: column;
+}
+.Title-2 {
+  text-align: center;
+}
+.Story-3 {
+  width: 25%;
+  border: 2px black solid;
+}
+.Title-3 {
+  text-align: center;
+}
+.title-4{
+    text-align: center;
+}
+.story-4 {
+  box-sizing: border-box;
+  width: 25%;
+  border: 2px black solid;
+}
+.main-box-2 {
+  display: flex;
+  border: 3px black solid;
+}
+.index{
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0;
+}
+.con {
+    margin:0;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.con-1 {
+  background-color: aqua;
+
+}
+.con-2 {
+  background-color: greenyellow;
+}
+.con-3 {
+  background-color: purple;
+}
+.con-4 {
+  background-color: plum;
+}
+.con-5 {
+  background-color: powderblue;
+}
